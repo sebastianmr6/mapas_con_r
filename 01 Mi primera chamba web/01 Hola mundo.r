@@ -1,7 +1,7 @@
 # Importa la librería 'pacman' para poder usar la función 'pacman' que permite instalar paquetes de R.
 # Esta se encargará de instalar los paquetes 'sf' y 'leaflet' si no están instalados y luego de cargarlos al proyecto.
-library(pacman)
-pacman::p_load('sf', 'leaflet')
+if (!require(pacman)) install.packages("pacman")
+pacman::p_load(readxl, sf, leaflet)
 
 # Define tres vectores (listas) con las coordenadas de tres puntos en Medellín, Colombia.
 # Cada vector contiene las coordenadas de un punto en particular de manera ordenada.
