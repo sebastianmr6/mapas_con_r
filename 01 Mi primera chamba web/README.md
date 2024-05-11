@@ -3,7 +3,7 @@ Numerosas carreras técnicas, tecnológicas y universitarias requieren que sus e
 
 Este tutorial tiene como objetivo presentar una guía paso a paso de cómo realizar un mapa interactivo usando R, en pocas líneas de código y con objetos de datos simples el estudiante podrá realizar un mapa interactivo de cualquier lugar del mundo.
 
-Este tutorial está dirigido a estudiantes de la asignatura _Revolución espacial, los nuevos mapas_ del ITM(https://www.itm.edu.co/) y es un ejercicio de finalización del semestre.
+Este tutorial está dirigido a estudiantes de la asignatura _Revolución espacial, los nuevos mapas_ del [ITM](https://www.itm.edu.co/) y es un ejercicio de finalización del semestre.
 
 # Objetivos
 - Crear un mapa interactivo usando R que sea publicable en la web.
@@ -11,6 +11,7 @@ Este tutorial está dirigido a estudiantes de la asignatura _Revolución espacia
 - Practicar el conocimiento de coordenadas geográficas.
 
 # Prerrequisitos
+- Tener instalado R y RStudio.
 
 # Desarrollo
 
